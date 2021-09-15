@@ -1,0 +1,21 @@
+M1 - 3 - Ejercicios CSS
+Introducción CSS
+Haz una página en la que se vea una imagen de fondo repetida tanto en horizontal     como en vertical.
+
+Haz una página en la que se vea una imagen de fondo repetida sólo verticalmente.
+
+Haz una página en la que haya suficiente contenido como para que se pueda hacer scroll verticalmente. Pon una imagen de fondo que se mantenga quieta al hacer el scroll.
+
+Haz una página en el que hay una lista en la cabecera, otra en el contenido y otra en el pie de página. Dales color de texto diferente a cada una de las listas.
+
+Crea una lista ordenada con 10 elementos. Haz que tanto el primer como el último elemento tengan color verde y que los elementos pares tengan el color rojo.
+
+
+Crea dos páginas con su cabecera, contenido y pie de página. Haz el título de la cabecera de un color, el fondo del contenido de otro y el texto del pie de página de un tercer color, pero usa solamente una hoja de estilos para las dos páginas.
+
+Crea una página que tenga una parte con un título y texto y una parte de recomendaciones que conste de un título y una lista con tres elementos puestos en vertical. 
+Cuando el navegador ocupe menos de 600 píxeles, muestra tanto el contenido como las recomendaciones ocupando la anchura completa del navegador, ambos con fondo rojo. 
+Cuando el navegador ocupe más de 600 píxeles pero menos de 800, muestra el contenido ocupando 60% de la anchura y fondo verde, y las recomendaciones ocupando 30% y fondo azul. 
+Cuando ocupe más de 800, muestra el contenido ocupando 80% de la anchura con fondo violeta y las recomendaciones ocupando el 15%, con fondo amarillo. 
+El tamaño del texto deberá variar, siendo de 11 píxeles cuando el navegador es menor de 600 píxeles de ancho, de 12 píxeles cuando es entre 600 y 800 píxeles y de 14 píxeles cuando es mayor de 800 píxeles. 
+
